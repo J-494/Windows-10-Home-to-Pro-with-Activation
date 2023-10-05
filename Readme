@@ -1,9 +1,12 @@
 *Windows 10 Home Activate*
+#
 slmgr.vbs /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 slmgr.vbs /skms kms.lotro.cc
 slmgr.vbs /ato
+#
 Home to Pro
 changepk /ProductKey VK7JG-NPHTM-C97JM-9MPGT-3V66T
+#
 Windows 10 Pro Activate
 slmgr.vbs /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 slmgr.vbs /skms kms.teevee.asia
